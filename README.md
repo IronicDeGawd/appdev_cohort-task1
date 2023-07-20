@@ -1,16 +1,15 @@
-# appdev_task_1
 
-7klever clone for week 1 task of AppDev Cohort 1
+# 7klever Login UI Clone
 
-## Getting Started
+This project contains the task 1 of AppDev Cohort 1.0 by AzureDevCommunity and Reskilll!
+It utilises flutter, dart, materialUI, etc.
 
-This project is a starting point for a Flutter application.
+This is my first android project so please go easy on me ;-;
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+## Screenshots of UI
+
+<img src="ui_mockup.jpg" width="665"/> <img src="vid.gif" width="340" />
+
